@@ -7,6 +7,10 @@
   --ocean: #404bbf;
   --cloud: #f4f4fd;
   --cornflower: #e7e9fc;
+  --green: #31d0aa;
+  --lightsalte: #8e8f99;
+  --navybluemodal: #2e2f42;
+  --dairy: #fcfcfc;
 }
 
 body {
@@ -135,6 +139,7 @@ img {
 
 .bg-hero {
   background-color: var(--navyblue);
+  background-image: url(../images/people-office.png);
 }
 
 .hero {
