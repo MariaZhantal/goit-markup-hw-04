@@ -438,8 +438,8 @@ img {
   fill: currentColor;
 }
 
-.social-footer .link :hover,
-.social-footer .link :focus {
+.social-footer .link:hover,
+.social-footer .link:focus {
   background-color: var(--green);
 }
 
